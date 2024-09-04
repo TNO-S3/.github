@@ -119,13 +119,17 @@ we invite you to get involved. Here’s how you can participate:
   reporting issues, submitting pull requests, or adding new features.
 - **Join Our Community**: Engage with our team and other contributors through
   discussions, events, and community forums.
-- **Reach Out**: Contact us if you are interested in joint-research and/or have
-  specific questions that needs to be resolved.
+- **Reach Out**:
+  [Contact us](https://www.tno.nl/en/about-tno/our-people/thomas-rooijakkers/)
+  if you are interested in joint-research and/or have specific questions that
+  needs to be resolved.
 
 ## Contact Us
 
 If you have any questions, suggestions, or are interested in collaborating with
-us, please feel free to reach out. You can contact us through our GitHub page or
+us, please feel free to reach out. You can contact us through our GitHub page,
+the
+[TNO website](https://www.tno.nl/en/about-tno/our-people/thomas-rooijakkers/) or
 visit [our website](https://tno.nl/) for more information.
 
 **Together, let's build a safer digital future!**
