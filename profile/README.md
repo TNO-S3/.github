@@ -105,7 +105,7 @@ community. Some of our featured projects include:
 - **[WuppieFuzz](https://github.com/TNO-S3/WuppieFuzz)**: A coverage-guided REST
   API fuzzer written in Rust with
   [LibAFL](https://github.com/AFLplusplus/LibAFL).
-- **[PIIP - PIIP Installs Intended Packages](https://github.com/TNO-S3/PIIP)**:
+- **[piiip - piiip interactively installs intended packages](https://github.com/TNO-S3/piiip)**:
   A wrapper around pip that helps to avoid installation of a different package
   than was intended.
 
