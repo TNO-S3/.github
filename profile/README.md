@@ -1,4 +1,4 @@
-# Welcome to the TNO Software and System Security Research Group!
+## Welcome to the TNO Software and System Security Research Group!
 
 <picture>
   <img alt="The logo for S³ illustrating the various testing setting (black box, grey box, and white box testing)." src="assets/logo.svg" width="33%" min-width="200px" align="right">
@@ -12,7 +12,7 @@ security. We focus on creating supportive technology for realising robust,
 secure, and resilient software solutions that meet the challenges of the modern
 digital landscape.
 
-## About Us
+### About Us
 
 In an increasingly interconnected world, the security of software and systems is
 more critical than ever. Our research group at TNO brings together experts in
@@ -29,7 +29,7 @@ We innovate upcoming technology to be
 - actionable, and
 - explainable.
 
-### Our Research Focus
+#### Our Research Focus
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/research-focus-dark.svg">
@@ -42,7 +42,7 @@ with a strong emphasis on developing supportive tools and technologies. While
 each area has its unique focus, there is considerable overlap in the methods and
 technologies we utilise, underscoring the integrated nature of our work.
 
-### 1. Software Security Testing
+#### 1. Software Security Testing
 
 Our work in **software security testing** focuses on dynamic testing techniques
 to ensure that software systems are robust and secure. Key areas include:
@@ -59,7 +59,7 @@ to ensure that software systems are robust and secure. Key areas include:
   generate a comprehensive set of test cases, helping to identify potential
   security issues across various scenarios.
 
-### 2. Secure Products
+#### 2. Secure Products
 
 Our research in **secure products** focuses on enhancing the security of
 software products throughout their lifecycle, from development to deployment,
@@ -77,7 +77,7 @@ with a particular emphasis on supply chain security. Key areas include:
 - **Secure by Design**: Continuing to advance secure-by-design principles that
   incorporate security from the start of the product development process.
 
-### 3. Vulnerability Research
+#### 3. Vulnerability Research
 
 Our **vulnerability research** focuses on discovering and mitigating software
 vulnerabilities through both identification and remediation efforts. Key areas
@@ -95,7 +95,7 @@ include:
 - **(Automated) Patching**: Creating automated patching solutions that help
   quickly and efficiently address vulnerabilities as they are discovered.
 
-## Our Projects
+### Our Projects
 
 Here on our GitHub organisation, you will find a collection of our open-source
 projects, tools, and frameworks that reflect our ongoing research efforts. These
@@ -124,7 +124,7 @@ we invite you to get involved. Here’s how you can participate:
   if you are interested in joint-research and/or have specific questions that
   needs to be resolved.
 
-## Contact Us
+### Contact Us
 
 If you have any questions, suggestions, or are interested in collaborating with
 us, please feel free to reach out. You can contact us through our GitHub page,
